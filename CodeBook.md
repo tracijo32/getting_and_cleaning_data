@@ -1,6 +1,17 @@
 # Code Book
 ## for Getting and Cleaning Data Final Assignment
 
+### Files in UCI HAR Dataset
+- 'features\_info.txt': Shows information about the variables used on the feature vector.
+- 'features.txt': List of all features.
+- 'activity\_labels.txt': Links the class labels with their activity name.
+- 'train/X\_train.txt': Training set.
+- 'train/y\_train.txt': Training labels.
+- 'test/X\_test.txt': Test set.
+- 'test/y\_test.txt': Test labels.
+- 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+- 'test/subject\_test.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+
 ### run_analysis.R
 #### Raw data frames from files directory UCI HAR Dataset:
 - features
